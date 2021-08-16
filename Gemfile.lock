@@ -1,20 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    ddtrace (0.51.1)
-      ffi (~> 1.0)
-      msgpack
-    ffi (1.15.3)
-    msgpack (1.4.2)
+    dummy-git-dependency (1.0.0)
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  ddtrace
-
-RUBY VERSION
-   ruby 3.0.2p107
+  dummy-git-dependency (= 1.0.0)
 
 BUNDLED WITH
    2.2.22
